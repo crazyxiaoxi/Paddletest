@@ -126,3 +126,4 @@
     func : full_int_array
     param : [shape, dtype]
   interfaces : paddle::dialect::InferSymbolicShapeInterface
+
